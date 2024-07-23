@@ -1,18 +1,16 @@
 ### 👋 Hi there, I'm Nguyễn Phương Linh.
 <hr>
-<div align="center">
+<div align="center" width="200">
   <a href="https://www.facebook.com/linhng.lnih/" target="blank">
     <img src="https://img.icons8.com/?size=100&id=7G8SbVTEKWQq&format=png&color=73b0bb" alt="facebook" />
   </a>
-  <a href="#" target="blank">
+  <a href="https://www.linkedin.com/in/phuong-nguyen-linh-849321316/" target="blank">
     <img src="https://img.icons8.com/?size=100&id=ErvuoIU4kAzh&format=png&color=73b0bb" alt="linkedin" />
   </a>
   <a href="https://www.instagram.com/linhng.lnih" target="blank">
     <img src="https://img.icons8.com/?size=100&id=Ns8Oze9tK1Y7&format=png&color=73b0bb" alt="instagram" />
   </a>
-  <a href="mailto:linhphuong13.work@gmail.com" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
-  </a>
+ 
 </div>
 
 - I had the opportunity to start college at the age of 16, and started working a year later (17 years old). My interests are in cloud computing as well as software development.
@@ -24,17 +22,23 @@ I am always open to new opportunities and challenges. If you would like to reach
 <br>
 <div align=center>
   <a href="#" title="LinhPhg">
-    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinhPhuong14&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinhPhuong14&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </a>
   &nbsp;
   &nbsp;
   <a href="#" title="LinhPhg">
-    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=LinhPhuong14&theme=city_lights&hide_border=false&show icon=true&count_private=false" />
+    <img width="420" align="center" src="https://github-readme-stats.vercel.app/api?username=LinhPhuong14&theme=city_lights&show_icons=true&hide_border=false&count_private=false&hide=contribs,prs" />
   </a>
   &nbsp;
   &nbsp;
 </div>
+<div>
+   <a href="mailto:linhphuong13.work@gmail.com" target="blank"><img width="50" src="https://img.icons8.com/?size=100&id=68415&format=png&color=73b0bb" alt="email" >
 
+     Contact me
+  </a>
+</img>
+</div>
 
 
 ---
