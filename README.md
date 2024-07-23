@@ -1,24 +1,29 @@
-### 👋 Hi there, I'm Nguyễn Phương Linh.
-<hr>
+<h1 align="center">Hi there, I'm Nguyễn Phương Linh.</h1>
+
+- I had the opportunity to start college at 14, and started working at 16 years old. I am interested in data analytic as well as software development.
+- Moreover, I also have experience in teaching and testing
+
+I am always open to new opportunities and challenges. 
+If you want to get in touch with me, direct message through my social or contact me at: [linhphuong13.work@gmail.com](mailto:linhphuong13.work@gmail.com). You can visit my [my online website.]() in order to know more about me.
+
+
+<br>
+<h2 align="center"><em>Social Media</em></h2>
 <div align="center" width="200">
   <a href="https://www.facebook.com/linhng.lnih/" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=7G8SbVTEKWQq&format=png&color=73b0bb" alt="facebook" />
+    <img width="100" src="https://img.icons8.com/?size=100&id=7G8SbVTEKWQq&format=png&color=73b0bb" alt="facebook" />
   </a>
   <a href="https://www.linkedin.com/in/phuong-nguyen-linh-849321316/" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=ErvuoIU4kAzh&format=png&color=73b0bb" alt="linkedin" />
+    <img width="100" src="https://img.icons8.com/?size=100&id=ErvuoIU4kAzh&format=png&color=73b0bb" alt="linkedin" />
   </a>
   <a href="https://www.instagram.com/linhng.lnih" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=Ns8Oze9tK1Y7&format=png&color=73b0bb" alt="instagram" />
+    <img width="100" src="https://img.icons8.com/?size=100&id=Ns8Oze9tK1Y7&format=png&color=73b0bb" alt="instagram" />
   </a>
- 
 </div>
 
-- I had the opportunity to start college at the age of 16, and started working a year later (17 years old). My interests are in cloud computing as well as software development.
-- Along with that, I also have experience in teaching, I was recognized as an **AWS Authorized Instructor** and was the main instructor in 2 Bootcamps in Vietnam.
 
-I am always open to new opportunities and challenges. If you would like to reach me, feel free to drop me a message. You can visit my pinned repo to see some of my pet projects or learning projects. Or go to [my online website.]()
-
-<h2 align="center"> GitHub Stats </h2>
+<br>
+<h2 align="center"><em>GitHub Stats</em></h2>
 <br>
 <div align=center>
   <a href="#" title="LinhPhg">
@@ -32,15 +37,7 @@ I am always open to new opportunities and challenges. If you would like to reach
   &nbsp;
   &nbsp;
 </div>
-<div>
-   <a href="mailto:linhphuong13.work@gmail.com" target="blank"><img width="50" src="https://img.icons8.com/?size=100&id=68415&format=png&color=73b0bb" alt="email" >
-
-     Contact me
-  </a>
-</img>
-</div>
 
 
 ---
 
-<!--[![](https://visitcount.itsvg.in/api?id=LinhPhuong14&label=Visitors&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)>
