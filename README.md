@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Nguyễn Phương Linh.</h1>
 
-- I had the opportunity to start college at 14, and started working at 16 years old. I am interested in data analytic as well as software development.
+- I had the opportunity to start college at 14, and started working at 16 years old. I am interested in data analytics as well as software development.
 - Moreover, I also have experience in teaching and testing
 
 I am always open to new opportunities and challenges. 
